@@ -1,8 +1,4 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my website
 
 [Link to another page](./another-page.html).
 
